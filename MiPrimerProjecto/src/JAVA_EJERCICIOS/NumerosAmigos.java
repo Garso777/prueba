@@ -5,7 +5,7 @@ import java.util.*;
 public class NumerosAmigos {
 
     public static void main(String[] args) {
- 
+ //holaaa
         int i,suma=0, n1, n2;
         @SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
